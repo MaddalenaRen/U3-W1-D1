@@ -7,7 +7,7 @@ import ImageComponent from './ImageComponent'
 import ButtonComponent from './ButtonComponent'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
